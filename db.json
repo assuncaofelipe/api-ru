@@ -1,0 +1,84 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Filipe",
+      "sobrenome": "Dias Brandao",
+      "email": "dias@teste.com",
+      "matricula": "21001100",
+      "qtd_desjejum": "12",
+      "qtd_almoco": "20",
+      "qtd_jantar": "15"
+    },
+    {
+      "id": 2,
+      "nome": "Thiago",
+      "sobrenome": "Rodrigues dos Santos",
+      "email": "thiago@teste.com",
+      "matricula": "22001100",
+      "qtd_desjejum": "12",
+      "qtd_almoco": "20",
+      "qtd_jantar": "15"
+    },
+    {
+      "id": 3,
+      "nome": "Daniel",
+      "sobrenome": "Costa",
+      "email": "daniel@teste.com",
+      "matricula": "23001100",
+      "qtd_desjejum": "12",
+      "qtd_almoco": "20",
+      "qtd_jantar": "15"
+    },
+    {
+      "id": 4,
+      "nome": "Joao Victor",
+      "sobrenome": "Neves",
+      "email": "joao@teste.com",
+      "matricula": "24001100",
+      "qtd_desjejum": "12",
+      "qtd_almoco": "20",
+      "qtd_jantar": "15"
+    },
+    {
+      "id": 5,
+      "nome": "Felipe",
+      "sobrenome": "Assunção",
+      "email": "felipe@teste.com",
+      "matricula": "25001100",
+      "qtd_desjejum": "12",
+      "qtd_almoco": "20",
+      "qtd_jantar": "15"
+    }
+  ],
+  "cardapio": [
+    {
+      "id": 1,
+      "diaSemana": "segunda-feira",
+      "desjejum": "Café, Nescau ou suco",
+      "almoco": "Arroz, Feijão, Salada, Farofa, carne ou panqueca",
+      "jantar": "Arroz, Feijão, Salada, Farofa, carne ou panqueca"
+    },
+    {
+      "id": 2,
+      "diaSemana": "terça-feira",
+      "desjejum": "Café, Nescau ou suco",
+      "almoco": "Arroz, Feijão, Salada, Farofa, carne ou panqueca",
+      "jantar": "Arroz, Feijão, Salada, Farofa, carne ou panqueca"
+    },
+    {
+      "id": 3,
+      "diaSemana": "quarda-feira",
+      "desjejum": "Café, Nescau ou suco",
+      "almoco": "Arroz, Feijão, Salada, Farofa, carne ou panqueca",
+      "jantar": "Arroz, Feijão, Salada, Farofa, carne ou panqueca"
+    },
+    {
+      "id": 4,
+      "diaSemana": "quinta-feira",
+      "desjejum": "Café, Nescau ou suco",
+      "almoco": "Arroz, Feijão, Salada, Farofa, carne ou panqueca",
+      "jantar": "Arroz, Feijão, Salada, Farofa, carne ou panqueca"
+    }
+  ]
+}
